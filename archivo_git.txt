@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-
 Es es la rama principal
-
-
-=======
-Cambio en la rama nueva
->>>>>>> nuevo
-
+cambio en la rama nueva
 
