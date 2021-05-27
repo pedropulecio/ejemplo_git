@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 Es es la rama principal
 cambio en la rama nueva
-=======
 
->>>>>>> nuevo
+
+nuevo
 
 
 
